@@ -43,7 +43,7 @@ namespace n01542751_Assignment2.Controllers
 
             //define every fourth letter to each key (As per phone keyboard)
             //If not available the fourth letter to any key than define as a  "_"
-            char[] fourthLetters = "_____sz".ToCharArray();
+            char[] fourthLetters = "_____s_z".ToCharArray();
 
             //define default prevoius index number of value   
             int prevIndex = -2;
